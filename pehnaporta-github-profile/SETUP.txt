@@ -1,0 +1,26 @@
+PÉ NA PORTA · GITHUB ORGANIZATION PROFILE
+
+READY-TO-PUBLISH STRUCTURE
+
+  profile/README.md
+  profile/assets/hero.gif
+  profile/assets/divider.png
+  profile/assets/contact.gif
+  profile/assets/hero-preview.png       (reference still)
+  profile/assets/contact-preview.png    (reference still)
+
+INSTALL (in the PUBLIC pehnaporta/.github repository)
+1. Create the public repository named exactly .github, owned by pehnaporta.
+2. In the repository root, create a folder called profile.
+3. Upload profile/README.md and the entire profile/assets/ folder, preserving paths.
+4. Ensure default branch is main. If different, replace '/main/' in image URLs in README.md.
+5. Commit changes; open https://github.com/pehnaporta (public view) to verify.
+
+IMPORTANT BEFORE PUBLISHING
+- The README uses contato@pehnaporta.com.br for the contact button. VERIFY this mailbox receives email.
+- If that address is not active, replace it in README.md with a functioning address before committing.
+- GitHub profiles do not support custom scripts/CSS. These are lightweight GIFs for reliable motion.
+- No website/domain assets are loaded; all assets are served from the public .github repository.
+- All project repositories remain private. No product purpose is disclosed.
+
+Art direction: architectural doorway, soft terracotta light, crisp modern editorial type.
